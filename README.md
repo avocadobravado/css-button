@@ -16,7 +16,7 @@ A button styled only with CSS. the `:before` and `:after` pseudoelements were us
 
 OR...
 
-* View on gh-pages at [https://github.com/avocadobravado/css-button](https://github.com/avocadobravado/css-button)
+* View on gh-pages at [https://avocadobravado.github.io/css-button](https://avocadobravado.github.io/css-button)
 
 ## Screenshot of Website
 
